@@ -1,0 +1,12 @@
+readFile.on('data', () => {
+  console.log('------', data)
+})
+readFile.on('data', () => {
+  console.log('------', data)
+})
+readFile.on('data', () => {
+  console.log('------', data)
+})
+readFile.on('data', () => {
+  console.log('------', data)
+})

@@ -213,7 +213,7 @@ that is currently open in the parent process. It is shared with the child
  process, similar to how <Stream> objects can be shared. Passing sockets is not supported on Windows. */
 
 
-const subprocess = fork('./test.bash', {
+const subprocess = fork('./test.js', {
   detached: false,
   env: {
     name: 'test js'

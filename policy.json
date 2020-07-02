@@ -1,0 +1,8 @@
+{
+  "onerror": "log",
+  "resources": {
+    "./path": {
+      "integrity": "sha384-SggXRQHwCG8g+DktYYzxkXRIkTiEYWBHqev0xnpCxYlqMBufKZHAHQM3/boDaI/0"
+    }
+  }
+}
